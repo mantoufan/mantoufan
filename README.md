@@ -1,7 +1,6 @@
 🌱 [My Projects on Npmjs](https://www.npmjs.com/~mantoufan)　⚡ [My Leetcode-cn Page](https://leetcode-cn.com/u/mantoufan/)　💬 [My Blog](https://yu.mantoufan.com/) 
-<div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&hide=contribs,prs&hide_border=true&theme=graywhite" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite" />
+<div>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&hide=contribs,prs&hide_border=true&theme=graywhite" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite" />
 </div>
 
 <!--
