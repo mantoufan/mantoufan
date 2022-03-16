@@ -10,7 +10,7 @@
 
 |  项目名   | 时间  | 简介 | 技术栈 |
 |  ----  | ----  | ----  | ---- |
-| [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MYSQL |
+| [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanK3S](https://github.com/mantoufan/yzhanK3S) | 2022 | 20Gbps 容器混合云集群 + 22TB 云存储 | K3S Docker Nginx Linux |
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 我的发明专利 ZL 2015 1 0296899.0 通道算法实现的弹幕 JS 库 | JS |  
