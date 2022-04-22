@@ -20,6 +20,7 @@
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | mtfApi (Private) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证等接口 | PHP Imagemagick 加密 |
 | Shop Plugin (Private) | 2019 | 14 款电商插件 | PHP JS |
+| mtfApp (Private) | 2012 | 分布式弹幕 · 点播 · 网盘 · 主页 · 社区站群 [馒头饭](https://p.yot.pw/100131) 等  | PHP MySQL JS |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP JS |
 
 <!--
