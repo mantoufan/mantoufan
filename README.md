@@ -14,14 +14,14 @@
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanK3S](https://github.com/mantoufan/yzhanK3S) | 2022 | 容器混合云集群 | K3S Docker Nginx Linux |
-| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现的弹幕 | JS |  
-| [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | JS | 
-| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 虚拟化无限滚动 JS 库 | JS React |
+| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现的弹幕 | ES6 |  
+| [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
+| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 虚拟化无限滚动 JS 库 | ES6 React |
 | [mtfPicviewer](https://github.com/mantoufan/mtfPicviewer) | 2020 | 100% 还原微信朋友圈看图 JQ 插件 | jQuery |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | mtfApi ShopXOPlugin | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证和 14 款电商插件 | PHP 加密 JS |
-| mtfApp (Private) | 2012 | 分布式弹幕 · 点播 · 网盘 · 主页 · 数字交易 · 社区站群 演示：[馒头饭](https://p.yot.pw/100131)  | PHP MySQL JS SEO |
-| [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP JS |
+| mtfApp (Private) | 2012 | 分布式弹幕 · 点播 · 网盘 · 主页 · 数字交易 · 社区站群 演示：[馒头饭](https://p.yot.pw/100131)  | PHP MySQL ES3 SEO |
+| [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
 
 <!--
 **mantoufan/mantoufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
