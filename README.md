@@ -16,7 +16,7 @@
 | [yzhanK3S](https://github.com/mantoufan/yzhanK3S) | 2022 | 容器混合云集群 | K3S Docker Nginx Linux |
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现的弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
-| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 虚拟化无限滚动 JS 库 | ES6 React |
+| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 1kB 系列：虚拟化无限滚动 JS 库 | ES6 React |
 | [mtfPicviewer](https://github.com/mantoufan/mtfPicviewer) | 2020 | 100% 还原微信朋友圈看图 JQ 插件 | jQuery |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | mtfApi ShopXOPlugin | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证和 14 款电商插件 | PHP 加密 jQuery |
