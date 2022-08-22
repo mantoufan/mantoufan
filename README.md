@@ -19,7 +19,7 @@
 | [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 1kB 系列：虚拟化无限滚动 JS 库 | ES6 React |
 | [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | 1kB 系列：100% 还原微信朋友圈看图 JQ 插件 | jQuery |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
-| [yzhanApi](https://github.com/mantoufan/yzhanApi) ShopXOPlugin | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证和 14 款电商插件 | PHP 加密 jQuery |
+| [yzhanAPI](https://github.com/mantoufan/yzhanAPI) ShopXOP. | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证和 14 款电商插件 | PHP 加密 jQuery |
 | mtfApp (Private) | 2012 | 分布式弹幕 · 点播 · 网盘 · 主页 · 数字交易 · 社区站群 演示：[馒头饭](https://p.yot.pw/100131)  | PHP MySQL ES3 SEO |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
 
