@@ -14,8 +14,8 @@
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
-| [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 | K3S Docker Nginx Linux |
-| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现的弹幕 | ES6 |  
+| [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 | K8S Docker Nginx Linux |
+| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
 | [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 1kB 系列：虚拟化无限滚动 JS 库 | ES6 React |
 | [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | 1kB 系列：100% 还原微信朋友圈看图 JQ 插件 | jQuery |
