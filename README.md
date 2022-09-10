@@ -18,7 +18,7 @@
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
 | [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 1kB 系列：虚拟化无限滚动 JS 库 | ES6 React |
-| [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | 1kB 系列：100% 还原微信朋友圈看图 JQ 插件 | jQuery |
+| [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | 1kB 系列：100% 还原微信朋友圈看图 JQ 插件 | jQuery UE |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
