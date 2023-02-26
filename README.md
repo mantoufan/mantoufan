@@ -10,6 +10,7 @@
 
 |  项目   | 时间  | 简介 | 关注 |
 |  ----  | ----  | ----  | ---- |
+| [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
