@@ -6,11 +6,13 @@
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-Packagist-orange?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue" /></a>
 <div>
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite&hide=prs&hide_border=true&v=1.1" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite&hide=prs&hide_border=true" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite" />
 </div>
 
 |  项目   | 时间  | 简介 | 关注 |
 |  ----  | ----  | ----  | ---- |
+| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | 在浏览器无损放大图片 | C++ WebAssembly svelte |
+| [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
