@@ -11,7 +11,7 @@
 
 |  项目   | 时间  | 简介 | 关注 |
 |  ----  | ----  | ----  | ---- |
-| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | 图片无损放大、转换、压缩离线工具引擎 | C++ Python svelte |
+| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | 图片无损放大、转换、压缩、OCR 离线工具引擎 | C++ Python svelte |
 | [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
