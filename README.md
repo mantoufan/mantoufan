@@ -11,7 +11,7 @@
 
 |  项目   | 时间  | 简介 | 关注 |
 |  ----  | ----  | ----  | ---- |
-| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 图片无损放大、转换、压缩、OCR 离线工具引擎 | C++ Python svelte |
+| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具引擎 | C++ Python svelte |
 | [yzhanProxy](https://github.com/mantoufan/yzhanProxy)  | 2023 | Buiding 自动续签 SSL、可配置缓存的 Web 反向代理服务器  | Golang |
 | [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
