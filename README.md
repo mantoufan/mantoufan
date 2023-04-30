@@ -16,7 +16,9 @@
 | [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
+| [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。已集成 百度云 Cloudflare Github 和 OpenAI | PHP |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
+| [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | 简单、高效的 PHP 缓存类 | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 | K8S Docker Nginx Linux |
@@ -27,6 +29,6 @@
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
-| 其它 |2020-2022| SDK 开发器：[yzhanGateway](https://github.com/mantoufan/yzhanGateway) 射击游戏生成器：[mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | PHP ES6 Canvas |
+| 其它 |2020| 射击游戏生成器：[mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | ES6 Canvas |
 | Contributed to |2022| [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Shell Nginx |
 | 私密 |2008-2022| [馒头饭](https://p.yot.pw/100131)：[mtfApp](https://github.com/mantoufan/mtfApp) 14 款电商插件: [shopxoplugin](https://github.com/mantoufan/shopxoplugin) | 性能 UE 搜索引擎 |
