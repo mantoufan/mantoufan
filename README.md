@@ -16,9 +16,9 @@
 | [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
-| [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。已集成 百度云 Cloudflare Github 和 OpenAI | PHP |
+| [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。已集成百度智能云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
-| [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | 简单、高效的 PHP 缓存类 | PHP |
+| [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | 简单、高效的 PHP 缓存类 | PHP  PHPunit |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 | K8S Docker Nginx Linux |
