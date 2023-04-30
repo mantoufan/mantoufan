@@ -31,4 +31,4 @@
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
 | 其它 |2020| 射击游戏生成器：[mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | ES6 Canvas |
 | Contributed to |2022| [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Shell Nginx |
-| 私密 |2008-2022| [馒头饭](https://p.yot.pw/100131)：[mtfApp](https://github.com/mantoufan/mtfApp) 14 款电商插件: [shopxoplugin](https://github.com/mantoufan/shopxoplugin) | 性能 UE 搜索引擎 |
+| 私密 |2008-2022| [Y站内容支撑框架](https://p.yot.pw/100131)：[mtfApp](https://github.com/mantoufan/mtfApp) 14 款电商插件: [shopxoplugin](https://github.com/mantoufan/shopxoplugin) | 性能 UE 搜索引擎 |
