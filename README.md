@@ -6,7 +6,7 @@
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-Packagist-orange?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue" /></a>
 <div>
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite&hide=prs&hide_border=true" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite&langs_count=10&hide_title=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide_title=true&text_bold=false&line_height=28" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite&langs_count=10&hide_title=true" />
 </div>
 
 |  项目   | 时间  | 简介 | 关注 |
