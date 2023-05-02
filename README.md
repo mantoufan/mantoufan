@@ -4,7 +4,7 @@
 <a href="https://weibo.com/u/2479500471" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2479500471&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true" /></a>
 <a href="javascript:"><img src="https://shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%A6%92%E5%A4%B4%E9%A5%AD-blackishgreen?logo=wechat"/></a>
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-Packagist-orange?logo=packagist" /></a>
-<a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue" /></a>
+<a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue?logo=pypi" /></a>
 <div>
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide_title=true&text_bold=false&line_height=28" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite&langs_count=10&hide_title=true" />
 </div>
