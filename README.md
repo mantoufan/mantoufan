@@ -25,7 +25,7 @@
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 Integrated payment system | React MUI PHP MySQL |
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
-| [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
+| [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 Canvas | 
 | [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：虚拟化无限滚动 JS 库 Virtualized infinite scrolling lib | ES6 React |
 | [mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | 2020 | 射击游戏生成器：面向对象封装角色、装备、预加载、操控等实现 | Canvas AABB 碰撞检测 |
 | [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：100% 还原微信朋友圈看图 JQ 插件 | jQuery UE |
