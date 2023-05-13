@@ -1,7 +1,7 @@
 <a href="https://www.npmjs.com/~mantoufan" target="_blank"><img src="https://shields.io/badge/npm-%E9%A6%92%E5%A4%B4%E9%A5%AD-red?logo=npm"/></a>
-<a href="https://leetcode-cn.com/u/mantoufan/" target="_blank"><img src="https://shields.io/badge/力扣-%E5%B0%8F%E5%AE%87-orange?logo=leetcode"/></a>
-<a href="https://yu.mantoufan.com/" target="_blank"><img src="https://shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B0%8F%E5%AE%87-darkcyan?logo=Storyblok" /></a>
-<a href="https://weibo.com/u/2479500471" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2479500471&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true" /></a>
+<a href="https://leetcode-cn.com/u/mantoufan/" target="_blank"><img src="https://shields.io/badge/LeetCode-%E5%B0%8F%E5%AE%87-orange?logo=leetcode"/></a>
+<a href="https://yu.mantoufan.com/" target="_blank"><img src="https://shields.io/badge/Blog-%E5%B0%8F%E5%AE%87-darkcyan?logo=Storyblok" /></a>
+<a href="https://weibo.com/u/2479500471" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=WeiBo&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2479500471&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true" /></a>
 <a href="javascript:"><img src="https://shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%A6%92%E5%A4%B4%E9%A5%AD-blackishgreen?logo=wechat"/></a>
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-Packagist-orange?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue?logo=pypi" /></a>
@@ -9,7 +9,7 @@
 <img width="44%" src="https://github-readme-stats.vercel.app/api?username=mantoufan&include_all_commits=true&show_icons=false&count_private=true&theme=graywhite&hide_border=true&hide_title=true&text_bold=false&line_height=28" /><img width="28%" src="https://github-readme-stats-ygpt.vercel.app/api/top-langs?username=mantoufan&include_all_commits=true&show_icons=true&layout=compact&hide_border=true&theme=graywhite&langs_count=10&hide_title=true" /><img width="28%" src="https://leetcard.jacoblin.cool/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0" />
 </div>
 
-|  项目   | 时间  | 简介 | 关注 |
+|  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
 | [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：用视频 图片列表和雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
 | [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具引擎 | C++ Python svelte |
