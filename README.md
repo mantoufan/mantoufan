@@ -14,7 +14,7 @@
 | [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：用视频 图片列表和雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
 | [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具引擎 | C++ Python svelte |
 | [yzhanProxy](https://github.com/mantoufan/yzhanProxy)  | 2023 | Buiding 自动续签 SSL、可配置缓存的 Web 反向代理服务器  | Golang |
-| [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：解析 URL 到 IP 和国家的库 | Python unittest |
+| [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：A python library could parse URL to ip and country | Python unittest |
 | [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
 | [yzhanMPE2E](https://github.com/mantoufan/yzhanMPE2E)  | 2023 | End-to-end automation testing for WeChat Mini Programs | Node.js OpenCV BFS |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
