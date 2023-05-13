@@ -11,22 +11,23 @@
 
 |  项目   | 时间  | 简介 | 关注 |
 |  ----  | ----  | ----  | ---- |
-| [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | 用视频、图片列表和雨、雪、樱、蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
+| [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：用视频 图片列表和雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
 | [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具引擎 | C++ Python svelte |
 | [yzhanProxy](https://github.com/mantoufan/yzhanProxy)  | 2023 | Buiding 自动续签 SSL、可配置缓存的 Web 反向代理服务器  | Golang |
-| [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | 1kB 系列：解析 URL 到 IP 和国家的库 | Python unittest |
-| [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | 1kB 系列：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
+| [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：解析 URL 到 IP 和国家的库 | Python unittest |
+| [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | [1kB 系列](https://github.com/topics/yzhan1kb)：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
+| [yzhanMPE2E](https://github.com/mantoufan/yzhanMPE2E)  | 2023 | End-to-end automation testing for WeChat Mini Programs | Node.js OpenCV BFS |
 | [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
 | [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。已集成百度云 腾讯云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
-| [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | 1kB 系列：通知和提示库  | ES3 |
+| [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | [1kB 系列](https://github.com/topics/yzhan1kb)：通知和提示库  | ES3 |
 | [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | 简单、高效的 PHP 缓存类 | PHP  PHPunit |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 | React MUI PHP MySQL |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 | K8S Docker Nginx Linux |
-| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | 1kB 系列：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
+| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB 系列](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 | 
-| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | 1kB 系列：虚拟化无限滚动 JS 库 | ES6 React |
-| [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | 1kB 系列：100% 还原微信朋友圈看图 JQ 插件 | jQuery UE |
+| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | [1kB 系列](https://github.com/topics/yzhan1kb)：虚拟化无限滚动 JS 库 | ES6 React |
+| [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | [1kB 系列](https://github.com/topics/yzhan1kb)：100% 还原微信朋友圈看图 JQ 插件 | jQuery UE |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 | PHP |
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
