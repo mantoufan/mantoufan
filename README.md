@@ -12,23 +12,23 @@
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
 | [yzhanCodeSpace](https://github.com/mantoufan/yzhanCodeSpace)  | 2023 | Rewriting source for Vue, React, Rollup, webpack, JS Compiler | Compiler Theory |
-| [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：用视频 图片列表和雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
-| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具引擎 | C++ Python svelte |
+| [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：视频 + 图片 + 雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
+| [yzhanTool](https://github.com/mantoufan/yzhanTool)  | 2023 | Todo 运行在浏览器的图片无损放大、转换、压缩、OCR 工具 | C++ Python svelte |
 | [yzhanProxy](https://github.com/mantoufan/yzhanProxy)  | 2023 | A web reverse proxy with automatic SSL and LFU caching  | Golang ChatGPT |
 | [yzhanURLParser](https://github.com/mantoufan/yzhanURLParser)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：A python library could parse URL to ip and country | Python unittest |
-| [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等随机动画库 | CSS Animation ES6 |
+| [yzhanWeather](https://github.com/mantoufan/yzhanWeather)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：生成纯 CSS 樱花 雨 雪 萤火虫 蝴蝶飞舞等动画库 | CSS Animation ES6 |
 | [yzhanMPE2E](https://github.com/mantoufan/yzhanMPE2E)  | 2023 | End-to-end automation testing for WeChat Mini Programs | Node.js OpenCV BFS |
-| [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 IP 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
-| [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。已集成百度云 腾讯云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
+| [yzhanIP](https://github.com/mantoufan/yzhanIP)  | 2022 | IPv4 IPv6 区间 通配符 CIDR 爬取、匹配、解析、转换、计算库 | PHP PHPunit |
+| [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。集成百度云 腾讯云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | [1kB Series](https://github.com/topics/yzhan1kb)：Pure JavaScript notification and alert lib  | ES3 |
 | [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | Simple and efficient PHP caching class | PHP  PHPunit |
 | [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 Container hybrid cloud cluster | K8S Docker Nginx Linux |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 Integrated payment system | React MUI PHP MySQL |
-| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 2015 1 0296899.0 通道算法实现弹幕 | ES6 |  
+| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 2015 1 0296899 通道算法实现弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 Canvas | 
-| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：虚拟化无限滚动 JS 库 Virtualized infinite scrolling lib | ES6 React |
-| [mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | 2020 | 射击游戏生成器：面向对象封装角色、装备、预加载、操控等实现 | Canvas AABB 碰撞检测 |
+| [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：虚拟化无限滚动库 Virtualized infinite scrolling lib | ES6 React |
+| [mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | 2020 | 射击游戏生成器：面向对象封装角色、装备、预加载、操控等 | Canvas AABB 碰撞检测 |
 | [yzhanImageViewer](https://github.com/mantoufan/yzhanImageViewer) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：100% 还原微信朋友圈看图 JQ 插件 | jQuery UE |
 | [mtfLive](https://github.com/mantoufan/mtfLive) | 2019 | 全网直播采集 Live streaming website scraper | PHP |
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
