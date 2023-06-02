@@ -25,7 +25,7 @@
 | [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 Container hybrid cloud cluster | K8S Docker Nginx Linux |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 Integrated payment system | React MUI PHP MySQL |
-| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 2015 1 0296899 通道算法实现弹幕 | ES6 |  
+| [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 201510296899 通道算法实现弹幕 | ES6 |  
 | [yzhanCrop](https://github.com/mantoufan/yZhanCrop) | 2021 | 仿 PS 多图层的图片选择、缩放、旋转、裁剪、导出 JS 库 | ES6 Canvas | 
 | [mtfScrollList](https://github.com/mantoufan/mtfScrollList) | 2020 | [1kB Series](https://github.com/topics/yzhan1kb)：虚拟化无限滚动库 Virtualized infinite scrolling lib | ES6 React |
 | [mtfSTGMaker](https://github.com/mantoufan/mtfSTGMaker) | 2020 | 射击游戏生成器：面向对象封装角色、装备、预加载、操控等 | Canvas AABB 碰撞检测 |
@@ -34,4 +34,4 @@
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
 | Contributed to |2022| [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Shell Nginx |
-| Others |2008-2022| [Y站内容支撑框架](https://p.yot.pw/100131)：[mtfApp](https://github.com/mantoufan/mtfApp) 14 款电商插件: [shopxoplugin](https://github.com/mantoufan/shopxoplugin) | Performance UE SEO |
+| Others |2008| [Y站内容支撑框架](https://p.yot.pw/100131)：[mtfApp](https://github.com/mantoufan/mtfApp) 14 款电商插件: [shopxoplugin](https://github.com/mantoufan/shopxoplugin) | Performance UE SEO |
