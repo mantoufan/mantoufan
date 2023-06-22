@@ -5,10 +5,7 @@
 <a href="javascript:"><img src="https://shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%A6%92%E5%A4%B4%E9%A5%AD-blackishgreen?logo=wechat"/></a>
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-Packagist-orange?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-mantoufan-blue?logo=pypi" /></a>
-<div>
-<img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="32%" src="https://leetcard.jacoblin.cool/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0" />
-</div>
-
+<img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="30%" src="https://leetcard.jacoblin.cool/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0" />
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
 | [yzhanCodeSpace](https://github.com/mantoufan/yzhanCodeSpace)  | 2023 | Rewriting source of Vue, React, Mobox, Rollup, Webpack, Vite | Reactive Diff Treeshaking |
