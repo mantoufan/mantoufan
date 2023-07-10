@@ -7,7 +7,7 @@
 <a href="https://www.mantoufan.com" target="_blank"><img src="https://img.shields.io/badge/%E4%BA%BA%E5%83%8F%E5%BA%93-%E9%A6%92%E5%A4%B4%E9%A5%AD-deeppink?logo=openai&logoColor=pink" /></a>
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-馒头饭-orange?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-馒头饭-blue?logo=pypi" /></a><br>
-<img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="30%" src="https://leetcode.yzhan.cyou/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0" />
+<img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="30%" src="https://leetcode.yzhan.cyou/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0&cache=43200" />
 </div>
 
 |  Repo   | Create  | Description | Tech |
