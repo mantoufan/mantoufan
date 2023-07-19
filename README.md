@@ -24,7 +24,7 @@
 | [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。集成百度云 腾讯云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | [1kB Series](https://github.com/topics/yzhan1kb)：Pure JavaScript notification and alert lib  | ES3 |
 | [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | Simple and efficient PHP caching class | PHP  PHPunit |
-| [yzhanPod](https://github.com/mantoufan/yzhanPod) | 2022 | 容器混合云集群 Container hybrid cloud cluster | K8S Docker Nginx Linux |
+| [yzhanPod](https://github.com/mantoufan/mtfCOM/tree/master/mod/yzhanPod) | 2022 | 容器混合云集群 Container hybrid cloud cluster | K8S Docker Nginx Linux |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 Integrated payment system | React MUI PHP MySQL |
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 201510296899 通道算法实现弹幕 | ES6 |  
