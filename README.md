@@ -5,8 +5,9 @@
 <a href="https://weibo.com/u/2479500471" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2479500471&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true&v=1" /></a>
 <a href="javascript:"><img src="https://shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%A6%92%E5%A4%B4%E9%A5%AD-blackishgreen?logo=wechat"/></a>
 <a href="https://www.mantoufan.com" target="_blank"><img src="https://img.shields.io/badge/%E4%BA%BA%E5%83%8F%E5%BA%93-%E9%A6%92%E5%A4%B4%E9%A5%AD-deeppink?logo=openai&logoColor=pink" /></a>
-<a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-馒头饭-orange?logo=packagist" /></a>
-<a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-馒头饭-blue?logo=pypi" /></a><br>
+<a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-gray?logo=packagist" /></a>
+<a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-gray?logo=pypi" /></a>
+<a href="[https://pypi.org/user/mantoufan](https://www.wujieai.com/user/14933947)" target="_blank"><img src="https://img.shields.io/badge/无界AI-馒头饭-pink" /></a><br>
 <img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="30%" src="https://leetcode.yzhan.cyou/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0&cache=43200" />
 </div>
 
