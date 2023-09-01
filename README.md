@@ -37,4 +37,4 @@
 | [yzhanAPI](https://github.com/mantoufan/yzhanAPI) | 2019 | 短网址、图像倾斜校正、清晰度增强、正版验证、模拟器接口 | 图像 WebAssembly |
 | [mtfCOM](https://github.com/mantoufan/mtfCOM) | 2010 | 2010 - 2019 组件库及打包工具 | PHP ES3 |
 | Contributed to |2022| [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Shell Nginx |
-| Others |2008| [自研框架演示](https://p.yot.pw/100131)：[应用端源码](https://github.com/mantoufan/mtfApp)、[14 款电商插件](https://github.com/mantoufan/shopxoplugin)、[Vue.js 组件库](https://github.com/mantoufan/yzhanUI) | Performance UE SEO |
+| Others |2008| [自研框架演示](https://p.yot.pw/100131)（[应用端源码](https://github.com/mantoufan/mtfApp)）[14 款电商插件](https://github.com/mantoufan/shopxoplugin) 练习：[Vue.js 组件库](https://github.com/mantoufan/yzhanUI) | Performance UE SEO |
