@@ -13,7 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
-| [yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)  | 2023 | A streaming HTML parser based on HTML Standard. 流式 HTML 解析器 | Stream State Machine |
+| [yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)  | 2023 | A streaming HTML parser. 流式 HTML 解析器 | Stream State Machine |
 | [yzhanTT](https://github.com/mantoufan/yzhanTT)  | 2023 | Simplified Node.js Version of Typing Tutor IV. DOS 练打字 TT | I/O Stream UI using Tab |
 | [yzhanCodeSpace](https://github.com/mantoufan/yzhanCodeSpace)  | 2023 | Rewriting source of Vue, React, MobX, Rollup, Webpack, Vite | Reactive Diff Treeshaking |
 | [yzhanBG](https://github.com/mantoufan/yzhanBG)  | 2023 | [1kB Series](https://github.com/topics/yzhan1kb)：视频 + 图片 + 雨 雪 樱 蝴蝶等纯 CSS 动画作背景 | ES6 CSS |
