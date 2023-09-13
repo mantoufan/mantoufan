@@ -13,7 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
-| [yzhanDisk](https://github.com/mantoufan/yzhanDisk)  | 2023 | A Multi-User Cloud Disk base on AWS | Node.js AWS React |
+| [yzhanDisk](https://github.com/mantoufan/yzhanDisk)  | 2023 | A serveless rapid development practice all rely on AWS | Node.js AWS React |
 | [yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)  | 2023 | A streaming HTML parser. 流式 HTML 解析器 | Stream State Machine |
 | [yzhanTT](https://github.com/mantoufan/yzhanTT)  | 2023 | Simplified Node.js Version of Typing Tutor IV. DOS 练打字 TT | I/O Stream UI using Tab |
 | [yzhanCodeSpace](https://github.com/mantoufan/yzhanCodeSpace)  | 2023 | Rewriting source of Vue, React, MobX, Rollup, Webpack, Vite | Reactive Diff Treeshaking |
