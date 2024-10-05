@@ -13,7 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
-| [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Language translater using OpenAI with cache | PHP PHPunit |
+| [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Language translator and detector using OpenAI with cache | PHP PHPunit |
 | [ResponsiveContent](https://github.com/mantoufan/yzhanReactResponsiveContent)  | 2024 | [1kB Series](https://github.com/topics/yzhan1kb)：Auto-generated media queries for responsive content | React TypeScript |
 | [yzhanDisk](https://github.com/mantoufan/yzhanDisk)  | 2023 | A serveless rapid development practice all rely on AWS | Node.js AWS React |
 | [yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)  | 2023 | A streaming HTML parser. 流式 HTML 解析器 | Stream State Machine |
