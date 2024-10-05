@@ -13,8 +13,9 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
-| [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Language translator and detector using OpenAI with cache | PHP PHPunit |
-| [ResponsiveContent](https://github.com/mantoufan/yzhanReactResponsiveContent)  | 2024 | [1kB Series](https://github.com/topics/yzhan1kb)：Auto-generated media queries for responsive content | React TypeScript |
+| [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to structured data via customized rules | Node.js |
+| [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Translate text, JSON, images via AI with cache | PHP PHPunit |
+| [ResponsiveContent](https://github.com/mantoufan/yzhanReactResponsiveContent)  | 2024 | [1kB Series](https://github.com/topics/yzhan1kb)：Auto-generated media queries for the responsive | React TypeScript |
 | [yzhanDisk](https://github.com/mantoufan/yzhanDisk)  | 2023 | A serveless rapid development practice all rely on AWS | Node.js AWS React |
 | [yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)  | 2023 | A streaming HTML parser. 流式 HTML 解析器 | Stream State Machine |
 | [yzhanTT](https://github.com/mantoufan/yzhanTT)  | 2023 | Simplified Node.js Version of Typing Tutor IV. DOS 练打字 TT | I/O Stream UI using Tab |
@@ -29,7 +30,7 @@
 | [yzhanGateway](https://github.com/mantoufan/yzhanGateway)  | 2022 | 通用 API SDK。集成百度云 腾讯云 Cloudflare Github 和 OpenAI | PHP  PHPunit |
 | [yzhanNotify](https://github.com/mantoufan/yzhanNotify)  | 2022 | [1kB Series](https://github.com/topics/yzhan1kb)：Pure JavaScript notification and alert lib  | ES3 |
 | [yzhanCache](https://github.com/mantoufan/yzhanCache)  | 2022 | Simple and efficient PHP caching class | PHP  PHPunit |
-| [yzhanCluster](https://github.com/mantoufan/yzhanCluster/tree/master/container) | 2022 | 容器混合云集群 Container hybrid cloud cluster | K8S Docker Nginx Linux |
+| [yzhanCluster](https://github.com/mantoufan/yzhanCluster/tree/master/container) | 2022 | K8s cluster across multi-domain public servers  | K8S Docker Netmaker |
 | [Alipay Global SDK](https://github.com/mantoufan/alipay-global-sdk-php)  | 2022 | Alipay Global Third Party SDK | PHP |
 | [yzhanPay](https://github.com/mantoufan/yzhanPay)  | 2021 | 融合支付系统 Integrated payment system | React MUI PHP MySQL |
 | [yzhanDanmu](https://github.com/mantoufan/yzhanDanmu) | 2021 | [1kB Series](https://github.com/topics/yzhan1kb)：我的发明专利 ZL 201510296899 通道算法实现弹幕 | ES6 |  
