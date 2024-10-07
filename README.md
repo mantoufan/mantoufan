@@ -13,7 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
-| [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to structured data via customized rules | Node.js |
+| [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to structured data | Python |
 | [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Translate text, JSON, images via AI with cache | PHP PHPunit |
 | [ResponsiveContent](https://github.com/mantoufan/yzhanReactResponsiveContent)  | 2024 | [1kB Series](https://github.com/topics/yzhan1kb)：Auto-generated media queries for the responsive | React TypeScript |
 | [yzhanDisk](https://github.com/mantoufan/yzhanDisk)  | 2023 | A serveless rapid development practice all rely on AWS | Node.js AWS React |
