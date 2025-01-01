@@ -13,6 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
+| [yzhanSimilarKline](https://github.com/mantoufan/yzhanSimilarKline)  | 2025 | Predicting stock moves using similar K-line patterns | Python |
 | [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to JSON using LLM & Proxy Pools | Python |
 | [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Translate text, JSON, images via AI with cache | PHP PHPunit |
 | [ResponsiveContent](https://github.com/mantoufan/yzhanReactResponsiveContent)  | 2024 | [1kB Series](https://github.com/topics/yzhan1kb)：Auto-generated media queries for the responsive | React TypeScript |
