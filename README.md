@@ -13,6 +13,7 @@
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
+| [Seedance Prompts Skill](https://github.com/mantoufan/seedance-prompts-skill)  | 2026 | Seedance Prompts Generator | Skill |
 | [yzhanSimilarKline](https://github.com/mantoufan/yzhanSimilarKline)  | 2025 | Predicting stock moves using similar K-line patterns | Python |
 | [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to JSON using LLM & Proxy Pools | Python |
 | [yzhanTranslator](https://github.com/mantoufan/yzhanTranslator)  | 2024 | Translate text, JSON, images via AI with cache | PHP PHPunit |
