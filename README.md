@@ -7,12 +7,14 @@
 <a href="https://p.kv.cm/100131" target="_blank"><img src="https://img.shields.io/badge/%E4%BA%BA%E5%83%8F%E5%BA%93-%E9%A6%92%E5%A4%B4%E9%A5%AD-deeppink?logo=openai&logoColor=pink" /></a>
 <a href="https://packagist.org/users/mantoufan/packages/" target="_blank"><img src="https://shields.io/badge/PHP-gray?logo=packagist" /></a>
 <a href="https://pypi.org/user/mantoufan" target="_blank"><img src="https://img.shields.io/badge/PyPI-gray?logo=pypi" /></a>
-<a href="https://www.wujieai.com/user/14933947" target="_blank"><img src="https://img.shields.io/badge/AI绘画-馒头饭-pink" /></a><br>
+<a href="https://www.wujieai.com/user/14933947" target="_blank"><img src="https://img.shields.io/badge/AI绘画-馒头饭-pink" /></a>
+<a href="https://cv.cm" target="_blank"><img src="https://img.shields.io/badge/cv.cm-browser%20tools-f7b6cb" /></a><br>
 <img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/overview.svg" /><img width="34%" src="https://raw.githubusercontent.com/mhjlw/github-stats/master/generated/languages.svg" /><img width="30%" src="https://leetcard.jacoblin.cool/mantoufan?theme=light&font=Noto%20Sans%20Telugu&ext=heatmap&site=cn&border=0&cache=43200" />
 </div>
 
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
+| [cv.cm](https://github.com/mantoufan/cvcm)  | 2026 | Browser-local PDF, image, QR, and clipboard tools. Files never leave the device. [cv.cm](https://cv.cm) | TypeScript Cloudflare |
 | [Seedance Skill](https://github.com/mantoufan/seedance-prompts-skill)  | 2026 | Professional Seedance Video Prompts Skill | Skill |
 | [yzhanSimilarKline](https://github.com/mantoufan/yzhanSimilarKline)  | 2025 | Predicting stock moves using similar K-line patterns | Python |
 | [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to JSON using LLM & Proxy Pools | Python |
