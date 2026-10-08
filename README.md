@@ -15,7 +15,7 @@
 |  Repo   | Create  | Description | Tech |
 |  ----  | ----  | ----  | ---- |
 | [cv.cm](https://github.com/mantoufan/cvcm)  | 2026 | Browser-local PDF, image, QR, and clipboard tools. Files never leave the device. [cv.cm](https://cv.cm) | TypeScript Cloudflare |
-| [SafeMark 安心水印](https://github.com/mantoufan/safemark) | 2026 | Watermark ID copies (for-use-only + date) and pixelate or black out private details in the browser. [Watermark](https://cv.cm/en/watermark/) · [Mosaic](https://cv.cm/en/mosaic/) · [身份证加水印](https://cv.cm/zh-cn/watermark/) | TypeScript Canvas |
+| [身份证水印打码 ID Watermark & Redact](https://github.com/mantoufan/id-watermark) | 2026 | Watermark ID copies (for-use-only + date) and pixelate or black out private details in the browser. [Watermark](https://cv.cm/en/watermark/) · [Mosaic](https://cv.cm/en/mosaic/) · [身份证加水印](https://cv.cm/zh-cn/watermark/) | TypeScript Canvas |
 | [Seedance Skill](https://github.com/mantoufan/seedance-prompts-skill)  | 2026 | Professional Seedance Video Prompts Skill | Skill |
 | [yzhanSimilarKline](https://github.com/mantoufan/yzhanSimilarKline)  | 2025 | Predicting stock moves using similar K-line patterns | Python |
 | [yzhanClawer](https://github.com/mantoufan/yzhanClawer)  | 2024 | Clawing website page to JSON using LLM & Proxy Pools | Python |
